@@ -1,2 +1,10 @@
 # DSA-practice
-My DSA solutions in java
+This repository contains my solutions to DSA problems.
+
+# Topics
+- Arrays
+- Strings
+
+# Language
+- Java
+
